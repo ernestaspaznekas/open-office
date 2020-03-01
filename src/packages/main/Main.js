@@ -32,7 +32,7 @@ export default class Main extends React.Component {
     }
 
     onChange = (prop, value) => {
-        this.setState({ [prop]: value })
+        this.setState({ [prop]: value * -1 })
     }
 
     onReset = () => {
@@ -78,8 +78,8 @@ export default class Main extends React.Component {
                     <div className="coordinates">
                         <h1>Coordinates</h1>
                         <div>
-                            <div><label>x: </label> <input type="number" onChange={this.onChangeX} value={x} /></div>
-                            <div><label>y: </label> <input type="number" onChange={this.onChangeY} value={y} /></div>
+                            <div><label>x: </label> <input type="number" onChange={this.onChangeX} value={-x} /></div>
+                            <div><label>y: </label> <input type="number" onChange={this.onChangeY} value={-y} /></div>
                         </div>
                         <button onClick={this.onReset}>Reset</button>
                     </div>
@@ -87,6 +87,7 @@ export default class Main extends React.Component {
                         <Draggable
                             bounds={{ left: -4300, right: 0, top: -2800, bottom: 0 }}
                             handle=".handle2"
+                            defaultPosition={{ x: 0, y: 0 }}
                             position={{ x, y }}
                             grid={[25, 25]}
                             scale={1}
