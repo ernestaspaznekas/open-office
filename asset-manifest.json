@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/open-office/static/css/main.718a91d1.chunk.css",
-    "main.js": "/open-office/static/js/main.2ef2299f.chunk.js",
-    "main.js.map": "/open-office/static/js/main.2ef2299f.chunk.js.map",
+    "main.css": "/open-office/static/css/main.a2b30b5d.chunk.css",
+    "main.js": "/open-office/static/js/main.40cf8e16.chunk.js",
+    "main.js.map": "/open-office/static/js/main.40cf8e16.chunk.js.map",
     "runtime-main.js": "/open-office/static/js/runtime-main.8121a457.js",
     "runtime-main.js.map": "/open-office/static/js/runtime-main.8121a457.js.map",
-    "static/js/2.a2ce8c3b.chunk.js": "/open-office/static/js/2.a2ce8c3b.chunk.js",
-    "static/js/2.a2ce8c3b.chunk.js.map": "/open-office/static/js/2.a2ce8c3b.chunk.js.map",
+    "static/js/2.f4f1b926.chunk.js": "/open-office/static/js/2.f4f1b926.chunk.js",
+    "static/js/2.f4f1b926.chunk.js.map": "/open-office/static/js/2.f4f1b926.chunk.js.map",
     "index.html": "/open-office/index.html",
-    "precache-manifest.5251f64ffa0d15396eccde3c4a3a3c4c.js": "/open-office/precache-manifest.5251f64ffa0d15396eccde3c4a3a3c4c.js",
+    "precache-manifest.8736d2f3b4bdbcd46b060de434c2d7c8.js": "/open-office/precache-manifest.8736d2f3b4bdbcd46b060de434c2d7c8.js",
     "service-worker.js": "/open-office/service-worker.js",
-    "static/css/main.718a91d1.chunk.css.map": "/open-office/static/css/main.718a91d1.chunk.css.map",
-    "static/js/2.a2ce8c3b.chunk.js.LICENSE": "/open-office/static/js/2.a2ce8c3b.chunk.js.LICENSE",
+    "static/css/main.a2b30b5d.chunk.css.map": "/open-office/static/css/main.a2b30b5d.chunk.css.map",
+    "static/js/2.f4f1b926.chunk.js.LICENSE": "/open-office/static/js/2.f4f1b926.chunk.js.LICENSE",
+    "static/media/cliff.jpg": "/open-office/static/media/cliff.ef2ca665.jpg",
     "static/media/logo.svg": "/open-office/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8121a457.js",
-    "static/js/2.a2ce8c3b.chunk.js",
-    "static/css/main.718a91d1.chunk.css",
-    "static/js/main.2ef2299f.chunk.js"
+    "static/js/2.f4f1b926.chunk.js",
+    "static/css/main.a2b30b5d.chunk.css",
+    "static/js/main.40cf8e16.chunk.js"
   ]
 }
