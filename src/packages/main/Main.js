@@ -1,6 +1,7 @@
 
 import React            from 'react'
 
+import cliff            from '../images/cliff.jpg';
 import Draggable        from 'react-draggable';
 import logo             from '../images/logo.svg';
 // import config           from '../config'
@@ -73,7 +74,6 @@ export default class Main extends React.Component {
                         data={data} 
                     />
                 } */}
-
                 <div className="main">
                     <div className="coordinates">
                         <h1>Coordinates</h1>
@@ -85,13 +85,14 @@ export default class Main extends React.Component {
                     </div>
                     <div className="img-container">
                         <Draggable
-                            handle=".handle"
+                            bounds={{ left: -4300, right: 0, top: -2800, bottom: 0 }}
+                            handle=".handle2"
                             position={{ x, y }}
                             grid={[25, 25]}
                             scale={1}
                             onStop={this.handleStop}>
                             <div>
-                                <img draggable={false} className="handle logo" alt="logo" src={logo} />
+                                <img draggable={false} className="handle2" alt="cliff" src={cliff} />
                             </div>
                         </Draggable>
                     </div>
