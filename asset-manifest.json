@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/open-office/static/css/main.a2b30b5d.chunk.css",
-    "main.js": "/open-office/static/js/main.40cf8e16.chunk.js",
-    "main.js.map": "/open-office/static/js/main.40cf8e16.chunk.js.map",
+    "main.js": "/open-office/static/js/main.937349ef.chunk.js",
+    "main.js.map": "/open-office/static/js/main.937349ef.chunk.js.map",
     "runtime-main.js": "/open-office/static/js/runtime-main.8121a457.js",
     "runtime-main.js.map": "/open-office/static/js/runtime-main.8121a457.js.map",
     "static/js/2.f4f1b926.chunk.js": "/open-office/static/js/2.f4f1b926.chunk.js",
     "static/js/2.f4f1b926.chunk.js.map": "/open-office/static/js/2.f4f1b926.chunk.js.map",
     "index.html": "/open-office/index.html",
-    "precache-manifest.8736d2f3b4bdbcd46b060de434c2d7c8.js": "/open-office/precache-manifest.8736d2f3b4bdbcd46b060de434c2d7c8.js",
+    "precache-manifest.a6a056031e8a17c2fee9167fd78061d4.js": "/open-office/precache-manifest.a6a056031e8a17c2fee9167fd78061d4.js",
     "service-worker.js": "/open-office/service-worker.js",
     "static/css/main.a2b30b5d.chunk.css.map": "/open-office/static/css/main.a2b30b5d.chunk.css.map",
     "static/js/2.f4f1b926.chunk.js.LICENSE": "/open-office/static/js/2.f4f1b926.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8121a457.js",
     "static/js/2.f4f1b926.chunk.js",
     "static/css/main.a2b30b5d.chunk.css",
-    "static/js/main.40cf8e16.chunk.js"
+    "static/js/main.937349ef.chunk.js"
   ]
 }

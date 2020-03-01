@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9af8b7cb5e6d02c20c26f596d539dac7",
+    "revision": "8149fbeb68593bccd883188e2b8b8859",
     "url": "/open-office/index.html"
   },
   {
-    "revision": "e1da583fc0e50c7478d2",
+    "revision": "f840ad7600f6131cb8f6",
     "url": "/open-office/static/css/main.a2b30b5d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-office/static/js/2.f4f1b926.chunk.js.LICENSE"
   },
   {
-    "revision": "e1da583fc0e50c7478d2",
-    "url": "/open-office/static/js/main.40cf8e16.chunk.js"
+    "revision": "f840ad7600f6131cb8f6",
+    "url": "/open-office/static/js/main.937349ef.chunk.js"
   },
   {
     "revision": "fcf5f049adb1d5b28819",
