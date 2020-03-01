@@ -9,7 +9,7 @@ body {
 
 .main {
     text-align:     center;
-
+    
     > .coordinates {
       padding:      20px;
       font-weight:  bold;
@@ -41,6 +41,7 @@ body {
     }
 
     > .img-container {
+      border: solid lightgreen;
       margin:       auto;
       height:       50vh;
       width:        75vw;

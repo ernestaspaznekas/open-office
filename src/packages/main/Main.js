@@ -53,7 +53,7 @@ export default class Main extends React.Component {
         } = this.state
 
         return (
-            <div className="main">
+            <div className="container">
                 {/* { loading && 
                     <Loader 
                         height={360} 
@@ -96,7 +96,6 @@ export default class Main extends React.Component {
                         </Draggable>
                     </div>
                 </div>  
-
             </div>
         )
     }
