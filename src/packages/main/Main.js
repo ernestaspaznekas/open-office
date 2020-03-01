@@ -1,8 +1,8 @@
 
 import React            from 'react'
 
-import cliff            from '../images/cliff.jpg';
 import Draggable        from 'react-draggable';
+import logo             from '../images/logo.svg';
 // import config           from '../config'
 // import Error            from '../error/Error'
 // import fetchFormApi     from '../api/fetch'
@@ -91,7 +91,7 @@ export default class Main extends React.Component {
                             scale={1}
                             onStop={this.handleStop}>
                             <div>
-                                <img draggable={false} className="handle" alt="cliff" src={cliff} />
+                                <img draggable={false} className="handle logo" alt="logo" src={logo} />
                             </div>
                         </Draggable>
                     </div>

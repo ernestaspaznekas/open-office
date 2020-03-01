@@ -2,7 +2,7 @@
   "name": "open-office",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ernestaspaznekas.github.io/rat",
+  "homepage": "https://ernestaspaznekas.github.io/open-office",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
